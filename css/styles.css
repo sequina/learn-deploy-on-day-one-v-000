@@ -197,7 +197,7 @@ a:visited {
 #tom-su-cover {
   background-image: url("http://datas.series-tv-shows.com/pic/tvdb/2448/fanart.jpg");
 }
- 
+
 #tom-su-card {
    background-image: url("http://imgur.com/ftlyRw2.png");
 }
@@ -611,6 +611,14 @@ a:visited {
 
 #jennifer-anton-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/jennifer-anton.jpg");
+}
+
+#sequina-caro-cover{
+  background-image: url("http://i.imgur.com/WVMwla9.jpg");
+}
+
+#sequina-caro-card{
+  background-image: url("http://i.imgur.com/o7JColJ.jpg?2");
 }
 
 #kaileigh-mccrea-cover {
@@ -4626,7 +4634,7 @@ a:visited {
 #rachel-lim-cover {
     background-image: url("http://i.imgur.com/yb6Dn4Y.jpg");
   }
- 
+
 #rachel-lim-card {
     background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
   }
